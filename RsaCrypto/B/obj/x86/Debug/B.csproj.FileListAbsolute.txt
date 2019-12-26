@@ -1,0 +1,30 @@
+C:\Users\gy\Desktop\RsaCrypto\B\obj\x86\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\gy\Desktop\RsaCrypto\B\obj\x86\Debug\B.Properties.Resources.resources
+C:\Users\gy\Desktop\RsaCrypto\B\obj\x86\Debug\B.csproj.GenerateResource.Cache
+C:\Users\gy\Desktop\RsaCrypto\B\bin\Debug\B.exe
+C:\Users\gy\Desktop\RsaCrypto\B\bin\Debug\B.pdb
+C:\Users\gy\Desktop\RsaCrypto\B\bin\Debug\RasCryptor.dll
+C:\Users\gy\Desktop\RsaCrypto\B\bin\Debug\RasCryptor.pdb
+C:\Users\gy\Desktop\RsaCrypto\B\obj\x86\Debug\B.exe
+C:\Users\gy\Desktop\RsaCrypto\B\obj\x86\Debug\B.pdb
+C:\Users\gy\Desktop\RsaCrypto\B\obj\x86\Debug\B.B_Form1.resources
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\bin\Debug\B.exe
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\bin\Debug\B.pdb
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\bin\Debug\RasCryptor.dll
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\bin\Debug\RasCryptor.pdb
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.B_Form1.resources
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.Properties.Resources.resources
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.exe
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\bin\Debug\B.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\bin\Debug\B.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\bin\Debug\RasCryptor.dll
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\bin\Debug\RasCryptor.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.B_Form1.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.Properties.Resources.resources
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\Visual project code\00_github\C#_RSA\RsaCrypto\B\obj\x86\Debug\B.pdb

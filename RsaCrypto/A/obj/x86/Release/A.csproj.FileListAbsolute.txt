@@ -1,0 +1,10 @@
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\bin\Release\A.exe
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\bin\Release\A.pdb
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\bin\Release\RasCryptor.dll
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\bin\Release\RasCryptor.pdb
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\obj\x86\Release\A.csprojResolveAssemblyReference.cache
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\obj\x86\Release\A.A_Form1.resources
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\obj\x86\Release\A.Properties.Resources.resources
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\obj\x86\Release\A.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\obj\x86\Release\A.exe
+C:\Users\RD\Desktop\C#_RSA\RsaCrypto\A\obj\x86\Release\A.pdb
